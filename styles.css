@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  margin: 5cap;
+}
+.post {
+  background-color: white;
+  margin: auto;
+  width: 50%;
+}
+header {
+  display: flex;
+  padding: 1cap;
+  align-items: center;
+}
+header .menu {
+  margin-left: auto;
+}
+
+.main {
+  padding: 1cap;
+}
+.imagen1 {
+  width: 100%;
+}
+.icons {
+  display: flex;
+  padding: 1cap;
+}
+.icons .fa-bookmark {
+  margin-left: auto;
+}
+.name {
+  padding-left: 1cap;
+}
+.icons .fa-comment {
+  padding: 0 10px; /
+}
